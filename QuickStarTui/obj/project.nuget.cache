@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/I0sMofKOd5F0cinh1ly54jQDd/e+2TV79aMY9BRdQcjPQbypTCNdg49bqs9abBnIjITAyOyTYaWOLjYXQmlZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hailey\\RiderProjects\\QuickStarTui\\QuickStarTui\\QuickStarTui.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hailey\\.nuget\\packages\\nstack.core\\0.17.1\\nstack.core.0.17.1.nupkg.sha512",
+    "C:\\Users\\Hailey\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hailey\\.nuget\\packages\\terminal.gui\\1.7.2\\terminal.gui.1.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
